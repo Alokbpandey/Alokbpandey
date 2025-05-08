@@ -1,4 +1,4 @@
-# 👋 Hello, I'm HumanI
+# 👋 Hello, I'm Alok
 
 Welcome to my GitHub profile! I'm a **Finance and AI enthusiast** with a knack for solving complex problems using cutting-edge technology. Here's a little about me:
 
